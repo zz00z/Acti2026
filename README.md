@@ -3,7 +3,11 @@ This repository contains representative R scripts used for the analysis of host 
 
 The scripts correspond to the main analytical workflow of the manuscript, including single-cell RNA-seq analysis, WGCNA, imaging-linked correlation analysis, machine-learning model screening, external and clinical validation, and Mendelian randomization analysis.
 
-No raw clinical data are included in this repository.
+## Data availability
+
+Public transcriptomic datasets used in this study are available from the Gene Expression Omnibus under accession numbers GSE89403, GSE40553, GSE54992, GSE31348, GSE79362, GSE135893, and GSE192483.
+
+Individual-level clinical validation data are not included in this repository due to privacy and ethical restrictions. De-identified template files are provided in the `data_template/` directory to illustrate the required input format for running the scripts.
 
 ---
 
